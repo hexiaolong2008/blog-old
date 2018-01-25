@@ -29,7 +29,7 @@
      id="namedview84"
      showgrid="false"
      inkscape:zoom="1.0000001"
-     inkscape:cx="500.11249"
+     inkscape:cx="618.1006"
      inkscape:cy="268.17282"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
@@ -95,33 +95,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <text
-     x="58.548832"
+     x="51.140491"
      y="24.932749"
      style="font-size:medium;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458001"
      xml:space="preserve"
      id="text_gram"><tspan
-       x="58.548832"
+       x="51.140491"
        y="24.932749"
        id="tspan32"
        style="stroke-width:0.26458001">GRAM</tspan></text>
   <text
-     x="183.66792"
+     x="176.25969"
      y="24.92103"
      style="font-size:medium;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458001"
      xml:space="preserve"
      id="text_panel"><tspan
-       x="183.66792"
+       x="176.25969"
        y="24.92103"
        id="tspan36"
        style="stroke-width:0.26458001">Panel</tspan></text>
   <g
      id="group_write"
-     transform="translate(-24.855322,76.595675)">
+     transform="translate(-32.26366,76.595675)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.86500001;stroke-miterlimit:2.79999995;marker-end:url(#b)"
        inkscape:connector-curvature="0"
@@ -156,14 +156,14 @@
      height="90.274002"
      width="69.163002"
      y="48.520729"
-     x="41.919266" />
+     x="34.510925" />
   <rect
      style="fill:#ff0000;stroke-width:0.16394874"
      id="gram_red"
      height="0.038722169"
      width="69.163002"
      y="48.684601"
-     x="41.919266">
+     x="34.510925">
     <animate
        attributeName="height"
        from="1"
@@ -179,7 +179,7 @@
   </rect>
   <g
      id="group_read"
-     transform="translate(11.165247,5.5657205)">
+     transform="translate(3.7569126,5.5657205)">
     <!--
     <path
        d="m 103.32974,43.045739 h 36.605"
@@ -257,13 +257,13 @@
      height="110.12"
      width="90.07"
      y="37.36824"
-     x="155.58" />
+     x="148.17177" />
   <rect
      id="panel_white"
      height="0.054821014"
      width="69.270035"
      y="47.625381"
-     x="165.75999"
+     x="158.35176"
      style="fill:#ffffff;stroke:none;stroke-width:0.08444582">
     <animate
        attributeName="height"
@@ -283,7 +283,7 @@
      height="0.038722169"
      width="69.270035"
      y="47.680199"
-     x="165.75999"
+     x="158.35176"
      style="fill:#ff0000;stroke:none">
     <animate
        attributeName="height"
@@ -308,7 +308,7 @@
      height="90.274002"
      width="69.269997"
      y="47.718925"
-     x="165.75999">
+     x="158.35176">
     <set
        attributeName="visibility"
        to="hidden"
@@ -316,7 +316,7 @@
   </rect>
   <g
      id="backlight_on"
-     transform="translate(-135.7716,6.2166257)">
+     transform="translate(-16.709115,7.5395422)">
     <circle
        id="circle64"
        style="fill:#00ff00;stroke-width:0;stroke-miterlimit:2.79999995;paint-order:fill markers stroke"
@@ -364,7 +364,7 @@
   </g>
   <g
      id="backlight_off"
-     transform="translate(-135.69061,38.143121)">
+     transform="translate(-16.628125,39.466038)">
     <circle
        id="circle46"
        style="stroke-width:0;stroke-miterlimit:2.79999995;paint-order:fill markers stroke"
@@ -421,7 +421,7 @@
   <g
      id="splash_warning"
      visibility="hidden"
-     transform="translate(11.165247,6.6240504)"
+     transform="translate(3.7569126,6.6240504)"
      style="visibility:hidden">
     <rect
        ry="1.2966754"
@@ -449,8 +449,8 @@
   </g>
   <text
      transform="scale(1.0248816,0.97572246)"
-     x="117.90355"
-     y="33.619869"
+     x="234.07541"
+     y="34.9757"
      font-size="8.586px"
      letter-spacing="0px"
      word-spacing="0px"
@@ -458,8 +458,8 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333359px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;visibility:hidden;fill:#000000;stroke-width:0.21465385"
      xml:space="preserve"
      id="text_bl_on"><tspan
-       x="117.90355"
-       y="33.619869"
+       x="234.07541"
+       y="34.9757"
        id="tspan26-4-5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333359px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.21465385">backlight On</tspan><set
        attributeName="visibility"
@@ -467,16 +467,16 @@
        begin="5s" /></text>
   <text
      transform="scale(1.0248816,0.97572246)"
-     x="117.95372"
-     y="33.556652"
+     x="234.12558"
+     y="34.912483"
      font-size="8.586px"
      letter-spacing="0px"
      word-spacing="0px"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333359px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.21465385"
      xml:space="preserve"
      id="text_bl_off"><tspan
-       x="117.95372"
-       y="33.556652"
+       x="234.12558"
+       y="34.912483"
        id="tspan26-4-5-4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333359px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.21465385">backlight Off</tspan><set
        attributeName="visibility"
