@@ -302,6 +302,20 @@
          y="111.466"
          style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.26412463;stroke-opacity:1">A</tspan></text>
   </g>
+    <line
+       x1="154.8685"
+       y1="42.455002"
+       x2="224.0315"
+       y2="42.455002"
+       style="stroke:#000000;stroke-width:0.1;"
+       id="scan_line" >
+    <animateMotion
+       path="M0,0 0,90"
+       begin="1s"
+       dur="3s"
+       repeatCount="1"
+    />
+	</line>
   <g
      style="visibility:hidden"
      clip-path="url(#clipB-8)"
