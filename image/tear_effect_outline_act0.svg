@@ -13,7 +13,7 @@
    version="1.1"
    viewBox="0 0 270 153"
    id="svg82"
-   sodipodi:docname="tear_effect_outline_middle.svg"
+   sodipodi:docname="tear_effect_outline_act0.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -29,8 +29,8 @@
      id="namedview84"
      showgrid="false"
      inkscape:zoom="1.4142137"
-     inkscape:cx="456.97781"
-     inkscape:cy="256.54068"
+     inkscape:cx="342.10042"
+     inkscape:cy="286.23917"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -107,6 +107,84 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     id="group_read"
+     transform="translate(0.56126597,-11.038231)">
+    <line
+       x1="103.32974"
+       y1="43.045738"
+       x2="139.92973"
+       y2="43.045738"
+       style="stroke:#000000;stroke-width:0.86500001;marker-start:url(#a)"
+       id="pointer_read" />
+    <text
+       transform="scale(1.0248816,0.97572247)"
+       x="116.25893"
+       y="42.156902"
+       font-size="8.586px"
+       letter-spacing="0px"
+       word-spacing="0px"
+       style="font-size:8.58615494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.21465385"
+       xml:space="preserve"
+       id="text_read"><tspan
+         x="116.25893"
+         y="42.156902"
+         id="tspan26-4"
+         style="stroke-width:0.21465385">R</tspan></text>
+    <animateMotion
+       id="ani_r0"
+       path="M0,0 0,11"
+       begin="1s"
+       dur="0.5s"
+       repeatCount="1"
+       fill="freeze" />
+    <animateMotion
+       id="ani_r1"
+       path="M0,11 0,112"
+       begin="ani_fmark.end"
+       dur="4.5s"
+       repeatCount="1"
+       fill="freeze" />
+    <animateMotion
+       id="ani_r2"
+       path="M0,0 0,112"
+       begin="ani_r1.end"
+       dur="5s"
+       repeatCount="1"
+       fill="freeze" />
+  </g>
+  <g
+     id="g913"
+     transform="translate(41.804187)">
+    <line
+       x1="104.07809"
+       y1="43.045742"
+       x2="140.67809"
+       y2="43.045742"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.86492294;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#a-5)"
+       id="pointer_read-0" />
+    <text
+       transform="scale(1.0248816,0.97572247)"
+       x="110.78255"
+       y="49.207218"
+       font-size="8.586px"
+       letter-spacing="0px"
+       word-spacing="0px"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.21465385"
+       xml:space="preserve"
+       id="text_read-8"><tspan
+         x="110.78255"
+         y="49.207218"
+         id="tspan26-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.21465385">FMARK</tspan></text>
+    <animateMotion
+       id="ani_fmark"
+       path="M0,0 -85,0"
+       begin="1.5"
+       dur="3s"
+       repeatCount="1"
+       fill="freeze" />
+  </g>
   <rect
      x="30.147274"
      y="31.802509"
@@ -164,7 +242,7 @@
     <animateMotion
        id="ani_w0"
        path="M0,0 0,90"
-       begin="1.5"
+       begin="ani_fmark.end"
        dur="6s"
        repeatCount="1"
        fill="freeze" />
@@ -182,86 +260,6 @@
      y="42.955002"
      x="30.754"
      style="fill:#ffffff;stroke:#000000;stroke-width:1" />
-  <g
-     id="group_read"
-     transform="translate(0.56126597,-11.038231)">
-    <line
-       x1="103.32974"
-       y1="43.045738"
-       x2="139.92973"
-       y2="43.045738"
-       style="stroke:#000000;stroke-width:0.86500001;marker-start:url(#a)"
-       id="pointer_read" />
-    <text
-       transform="scale(1.0248816,0.97572247)"
-       x="116.25893"
-       y="42.156902"
-       font-size="8.586px"
-       letter-spacing="0px"
-       word-spacing="0px"
-       style="font-size:8.58615494px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.21465385"
-       xml:space="preserve"
-       id="text_read"><tspan
-         x="116.25893"
-         y="42.156902"
-         id="tspan26-4"
-         style="stroke-width:0.21465385">R</tspan></text>
-    <animateMotion
-       id="ani_r0"
-       path="M0,0 0,112"
-       begin="1s"
-       dur="5s"
-       repeatCount="1"
-       fill="freeze" />
-    <animateMotion
-       id="ani_r1"
-       path="M0,0 0,112"
-       begin="ani_r0.end"
-       dur="5s"
-       repeatCount="1"
-       fill="freeze" />
-  </g>
-  <g
-     id="g969"
-     visibility="hidden"
-     transform="translate(-95.415218,143.87118)"
-     style="visibility:hidden">
-    <line
-       x1="102.3943"
-       y1="20.782188"
-       x2="138.99429"
-       y2="20.782188"
-       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.86492294;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#a-5)"
-       id="pointer_read-0" />
-    <text
-       transform="scale(1.0248816,0.97572247)"
-       x="109.13963"
-       y="19.339401"
-       font-size="8.586px"
-       letter-spacing="0px"
-       word-spacing="0px"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.21465385"
-       xml:space="preserve"
-       id="text_read-8"><tspan
-         x="109.13963"
-         y="19.339401"
-         id="tspan26-4-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.21465385">FMARK</tspan></text>
-    <animate
-       id="ani_fmark0"
-       attributeName="visibility"
-       to="visible"
-       begin="ani_r0.begin+1.5"
-       dur="1s"
-       repeatCount="1" />
-    <animate
-       id="ani_fmark1"
-       attributeName="visibility"
-       to="visible"
-       begin="ani_fmark0.begin+3"
-       dur="1s"
-       repeatCount="1" />
-  </g>
   <rect
      id="panel_body"
      style="fill:#112b00;stroke:#000000;stroke-width:0.2;paint-order:fill markers stroke"
@@ -278,7 +276,7 @@
        width="69.163002"
        height="90.274002"
        id="rect33">
-    <animate
+      <animate
          attributeName="height"
          from="0"
          to="90"
@@ -378,7 +376,7 @@
          y="111.466"
          style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.26412463;stroke-opacity:1">A</tspan></text>
   </g>
-<!--  <line
+  <line
      x1="154.8685"
      y1="42.455002"
      x2="224.0315"
@@ -387,29 +385,29 @@
      id="scan_line">
     <animateMotion
        path="M0,0 0,90"
-       begin="1s"
-       dur="3s"
+       begin="ani_r1.begin"
+       dur="4s"
        repeatCount="1" />
-  </line>-->
-    <clipPath
-       id="clipB-8">
-      <rect
-         x="42.955002"
-         y="31.955002"
-         width="69.163002"
-         height="112"
-         id="rect33-5">
-        <animate
-		   id="ani_clipB-8"
-           attributeName="height"
-           from="0"
-           to="112"
-           begin="ani_r0.end"
-           dur="5s"
-           fill="freeze"
-           repeatCount="1" />
-      </rect>
-    </clipPath>
+  </line>
+  <clipPath
+     id="clipB-8">
+    <rect
+       x="42.955002"
+       y="31.955002"
+       width="69.163002"
+       height="112"
+       id="rect33-5">
+      <animate
+         id="ani_clipB-8"
+         attributeName="height"
+         from="0"
+         to="112"
+         begin="ani_r2.begin"
+         dur="5s"
+         fill="freeze"
+         repeatCount="1" />
+    </rect>
+  </clipPath>
   <g
      style="visibility:hidden"
      clip-path="url(#clipB-8)"
@@ -439,7 +437,7 @@
     <set
        attributeName="visibility"
        to="visible"
-       begin="ani_r1.begin" />
+       begin="ani_r2.begin" />
   </g>
   <text
      transform="scale(1.0248816,0.97572247)"
